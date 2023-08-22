@@ -1,0 +1,29 @@
+Время: 2023-08-22 21:43:28.546225, Функция: flat_generator, args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFA50> 
+Время: 2023-08-22 21:43:28.546225, Функция: flat_generator, args: ([['a'], ['b', 'c']],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF9E0> 
+Время: 2023-08-22 21:43:28.547221, Функция: flat_generator, args: (['a'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.547221, Функция: flat_generator, args: (['b', 'c'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.547221, Функция: flat_generator, args: (['d', 'e', [['f'], 'h'], False],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF9E0> 
+Время: 2023-08-22 21:43:28.547221, Функция: flat_generator, args: ([['f'], 'h'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.547221, Функция: flat_generator, args: (['f'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFD60> 
+Время: 2023-08-22 21:43:28.548218, Функция: flat_generator, args: ([1, 2, None, [[[[['!']]]]], []],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF9E0> 
+Время: 2023-08-22 21:43:28.548218, Функция: flat_generator, args: ([[[[['!']]]]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.548218, Функция: flat_generator, args: ([[[['!']]]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFD60> 
+Время: 2023-08-22 21:43:28.548218, Функция: flat_generator, args: ([[['!']]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFDD0> 
+Время: 2023-08-22 21:43:28.548218, Функция: flat_generator, args: ([['!']],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFE40> 
+Время: 2023-08-22 21:43:28.548218, Функция: flat_generator, args: (['!'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFEB0> 
+Время: 2023-08-22 21:43:28.548218, Функция: flat_generator, args: ([],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.549215, Функция: flat_generator, args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFA50> 
+Время: 2023-08-22 21:43:28.549215, Функция: flat_generator, args: ([['a'], ['b', 'c']],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF9E0> 
+Время: 2023-08-22 21:43:28.549215, Функция: flat_generator, args: (['a'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.549215, Функция: flat_generator, args: (['b', 'c'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.549215, Функция: flat_generator, args: (['d', 'e', [['f'], 'h'], False],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF9E0> 
+Время: 2023-08-22 21:43:28.549215, Функция: flat_generator, args: ([['f'], 'h'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.550213, Функция: flat_generator, args: (['f'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFD60> 
+Время: 2023-08-22 21:43:28.550213, Функция: flat_generator, args: ([1, 2, None, [[[[['!']]]]], []],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF9E0> 
+Время: 2023-08-22 21:43:28.550213, Функция: flat_generator, args: ([[[[['!']]]]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.550213, Функция: flat_generator, args: ([[[['!']]]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFD60> 
+Время: 2023-08-22 21:43:28.550213, Функция: flat_generator, args: ([[['!']]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFDD0> 
+Время: 2023-08-22 21:43:28.550213, Функция: flat_generator, args: ([['!']],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFE40> 
+Время: 2023-08-22 21:43:28.551210, Функция: flat_generator, args: (['!'],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFEB0> 
+Время: 2023-08-22 21:43:28.551210, Функция: flat_generator, args: ([],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBF5F0> 
+Время: 2023-08-22 21:43:28.551210, Функция: flat_generator, args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs: {}, result: <generator object flat_generator at 0x0000022B0EDBFA50> 
